@@ -1,7 +1,7 @@
 # Hi 👋, I'm Eldana
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh2OGNvZmc0ZGl1NGZ2Mjc0enpjd3c2MmYycWN5OHFtc3NqeG9xOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zkppEMFvRX5FC/giphy.gif" />" width="600" alt="My GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh2OGNvZmc0ZGl1NGZ2Mjc0enpjd3c2MmYycWN5OHFtc3NqeG9xOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zkppEMFvRX5FC/giphy.gif"
   <br/>
 </div>
 
