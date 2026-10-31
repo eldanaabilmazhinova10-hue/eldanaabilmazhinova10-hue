@@ -1,7 +1,7 @@
 # Hi 👋, I'm Eldana
 
 <div align="center">
-  <img src="![](https://share.google)" width="600" alt="The Wind Rises Jiro" />
+  <img src="https://googleusercontent.com" width="600" alt="My GIF" />
   <br/>
 </div>
 
