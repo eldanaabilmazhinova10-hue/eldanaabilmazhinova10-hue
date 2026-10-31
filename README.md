@@ -1,7 +1,7 @@
 # Hi 👋, I'm Eldana
 
 <div align="center">
-  <img src="https://googleusercontent.com" width="600" alt="My GIF" />
+  <img src="<img width="498" height="280" alt="hyouka-oreki" src="https://github.com/user-attachments/assets/830f87ff-444c-445d-b5e1-e27ae0428704" />" width="600" alt="My GIF" />
   <br/>
 </div>
 
